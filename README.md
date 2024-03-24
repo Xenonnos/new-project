@@ -20,6 +20,8 @@ Step 9. Комітимо зміни у гілці "development" командою
 
 Step 10. Повертаємося у гілку "main" командою "git checkout main"  і зливаємо зміни з гілки "development" у гілку "main" командою "git merge development".
 
-Step 11. Комітимо зміни у репозиторій командою "git commit".
+Step 11. Перевіряємо статус командою "git status".
+
+Step 12. Комітимо зміни у репозиторій командою "git commit".
 
 
